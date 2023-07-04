@@ -10,3 +10,4 @@ As GitHub doesn't support sorting by adding time, so some folders and some sub-f
     + Introduction to Variables and Data types
     + Variables in memory
     + Variables Scope
+    + TypeCasting
