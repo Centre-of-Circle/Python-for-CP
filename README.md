@@ -11,3 +11,7 @@ As GitHub doesn't support sorting by adding time, so some folders and some sub-f
     + Variables in memory
     + Variables Scope
     + TypeCasting
+  + Basic Input-Output
+    + Print Function
+    + Taking Input
+    + Practice Problem
